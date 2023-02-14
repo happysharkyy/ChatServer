@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/code/chat/build/src/client",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatClient.dir/main.cpp.o -c /code/chat/src/client/main.cpp",
+  "file": "/code/chat/src/client/main.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /code/chat/src/server/chatserver.cpp",
+  "file": "/code/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/main.cpp.o -c /code/chat/src/server/main.cpp",
+  "file": "/code/chat/src/server/main.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /code/chat/src/server/chatservice.cpp",
+  "file": "/code/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /code/chat/src/server/db/db.cpp",
+  "file": "/code/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/mapper/usermodel.cpp.o -c /code/chat/src/server/mapper/usermodel.cpp",
+  "file": "/code/chat/src/server/mapper/usermodel.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/mapper/offlinemessagemodel.cpp.o -c /code/chat/src/server/mapper/offlinemessagemodel.cpp",
+  "file": "/code/chat/src/server/mapper/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/mapper/friendmoel.cpp.o -c /code/chat/src/server/mapper/friendmoel.cpp",
+  "file": "/code/chat/src/server/mapper/friendmoel.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/mapper/groupmodel.cpp.o -c /code/chat/src/server/mapper/groupmodel.cpp",
+  "file": "/code/chat/src/server/mapper/groupmodel.cpp"
+},
+{
+  "directory": "/code/chat/build/src/server",
+  "command": "/usr/bin/x86_64-redhat-linux-g++    -std=c++11 -g -I/code/chat/include -I/code/chat/include/server -I/code/chat/include/server/db -I/code/chat/include/server/mapper -I/code/chat/include/server/model -I/code/chat/include/server/redis -I/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /code/chat/src/server/redis/redis.cpp",
+  "file": "/code/chat/src/server/redis/redis.cpp"
+}
+]
