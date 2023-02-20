@@ -1,1 +1,2 @@
 #ChatServer
+基于muduo网络库的集群聊天服务器，集群采用nginx来作为负载均衡器，使用redis发布订阅模式来进行服务间通信
